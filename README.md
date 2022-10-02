@@ -5,6 +5,10 @@ I decided to get into a little bit of networking and I decided to do a LAN chatr
 ## Development
 My software at this moment can only run on one computer but with different clients. The client connects to the server and the server can handle multiple clients. A person can send a message and the server can take that message and broadcast it to everyone that is connected to the server.
 
+## Demonstration
+Here is a video of my chatroom running:
+
+[Chatroom_Demonstration](https://clipchamp.com/watch/QvPTyIMAHMR)
 
 
 ## Helpful Tools
